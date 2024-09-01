@@ -7,7 +7,7 @@ import curriculo from "../assets/curriculo-Sergio-Tales.pdf";
 
 const Hero = () => {
   return (
-    <section className="bg-indigo-100 flex justify-center items-center py-4 xl:py-8 px-4">
+    <section className="bg-indigo-100 flex justify-center items-center py-12 xl:py-8 px-4">
       <article className="text-center xl:w-3/4 xl:mx-auto">
         <h1 className="text-gray-700 font-bold text-3xl xl:text-6xl">
           Olá, conheça Sergio Tales:
