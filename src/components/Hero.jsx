@@ -12,7 +12,7 @@ const Hero = () => {
         <h1 className="text-gray-700 font-bold text-3xl xl:text-6xl">
           Olá, conheça Sergio Tales:
         </h1>
-        <p className="text-gray-700 py-10 xl:py-6 font-medium text-lg xl:w-8/12 xl:mx-auto xl:text-2xl">
+        <p className="text-gray-700 py-4 xl:py-6 font-medium text-lg xl:w-8/12 xl:mx-auto xl:text-2xl">
           Um desenvolvedor web full stack focado no desenvolvimento de
           aplicações únicas com o objetivo de transformar sonhos em realidade.
         </p>
