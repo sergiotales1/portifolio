@@ -2,6 +2,7 @@ import React from "react";
 import { AiFillProfile } from "react-icons/ai";
 import { AiFillGithub } from "react-icons/ai";
 import heroImg from "../assets/hero-img.png";
+import curriculo from "../assets/curriculo-Sergio-Tales.pdf";
 
 const Hero = () => {
   return (
@@ -21,7 +22,7 @@ const Hero = () => {
           <button className="bg-indigo-500 p-2 rounded-md text-lg font-semibold text-indigo-50 hover:text-gray-700 duration-200 transition-all xl:text-2xl">
             <a
               className="flex justify-center items-center gap-1"
-              href="../assets/curriculo-Sergio-Tales.pdf"
+              href={curriculo}
               download={"curriculo.pdf"}
             >
               <AiFillProfile />
