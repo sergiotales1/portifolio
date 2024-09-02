@@ -3,7 +3,7 @@ import sobreImg from "../assets/sobre-img.jpg";
 
 const Sobre = () => {
   return (
-    <section className=" px-4 xl:px-8 shadow-lg leading-7   rounded-lg">
+    <section className=" px-4 xl:px-8 shadow-lg leading-7 pb-8  rounded-lg">
       <article>
         <h2
           id="sobre"
