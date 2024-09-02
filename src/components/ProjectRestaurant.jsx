@@ -21,7 +21,7 @@ const ProjectRestaurant = () => {
   };
 
   return (
-    <article className="bg-indigo-100 xl:grid xl:w-10/12 xl:grid-cols-[auto_1fr] gap-10 xl:gap-6 items-center justify-center  text-gray-700   p-4 shadow-lg rounded-lg">
+    <article className="bg-indigo-100 xl:grid xl:w-10/12 xl:grid-cols-[auto_1fr] gap-10 xl:gap-6 items-center justify-center  text-gray-700   p-4 shadow-lg rounded-lg mt-10">
       {open && <Modal open={open} setOpen={setOpen} video={video} />}
       <div onClick={handleImgClick} className="xl:max-w-xl  cursor-pointer">
         <img src={videoImg} className="h-full object-contain" alt="" />

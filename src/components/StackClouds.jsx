@@ -6,7 +6,7 @@ import mongodb from "../assets/mongodb.svg";
 
 export default function StackClouds() {
   return (
-    <div className="bg-white py-12 xl:py-14">
+    <div className="bg-white my-12 xl:my-24">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <h2 className="text-center text-2xl xl:text-3xl  font-bold leading-8 text-gray-700">
           Tech Stack

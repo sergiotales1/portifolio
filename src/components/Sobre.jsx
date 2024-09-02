@@ -3,11 +3,11 @@ import sobreImg from "../assets/sobre-img.jpg";
 
 const Sobre = () => {
   return (
-    <section className=" p-4 xl:p-8 shadow-lg leading-7  pb-4 rounded-lg">
+    <section className=" px-4 xl:px-8 shadow-lg leading-7   rounded-lg">
       <article>
         <h2
           id="sobre"
-          className="text-center text-2xl xl:text-3xl py-10    font-bold leading-8 text-gray-700 "
+          className="text-center text-2xl xl:text-3xl my-10    font-bold leading-8 text-gray-700 "
         >
           Sobre
         </h2>
@@ -35,7 +35,7 @@ const Sobre = () => {
             NodeJS, e com a facilidade em criar rotas que o ExpressJS me
             oferece, sou capaz de criar Restful APIs que conectam o front end
             das minhas aplicações com o servidor e o banco de dados de minha
-            preferência (MongoDB).
+            preferência.
             <p>Algumas outras tecnologias em que possuo conhecimento:</p>
           </p>
           <ul>
