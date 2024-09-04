@@ -50,7 +50,7 @@ export const iconsJane = [
   {
     title: "Javascript",
     img: javascript,
-    desc: "Estilização",
+    desc: "Linguagem de programação",
   },
   {
     title: "CSS3",
